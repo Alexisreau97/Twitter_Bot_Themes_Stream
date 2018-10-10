@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem "ruby"
-gem "twitter"
-gem "rubocop"
-gem "pry"
-gem "dotenv"
+ruby '2.5.1'
+gem 'twitter'
+gem 'rubocop', '0.57.2'
+gem 'pry'
+gem 'dotenv'
